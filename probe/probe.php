@@ -29,6 +29,7 @@
 	if (!is_array($collectionServer)) { $collectionServer = array($collectionServer); }
 
 	$time = time();
+	$devices = array();
 
 	if (!isset($daemon['cli']['post'])) {
 		foreach ($discoveryFiles as $file) {
