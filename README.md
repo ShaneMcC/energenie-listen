@@ -1,3 +1,9 @@
+# Deprecated
+
+This stand-alone repo has been deprecated.
+
+See https://github.com/ShaneMcC/collector-probe and https://github.com/ShaneMcC/collector-web instead.
+
 # energenie-listen
 
 This repo contains tools for collecting data from energenie mi|home devices and storing them as JSON to be read by other processes.
